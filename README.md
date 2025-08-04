@@ -1,2 +1,2 @@
-# styles
+# Styles
 Style configurations
